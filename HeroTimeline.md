@@ -382,10 +382,7 @@ The machine hadn’t thanked him. It had filed him — for future use.
 - Persistence is quietly rewarded (his fallback caution becomes hidden genius stability)
 - Emergent competence = hidden mastery
 
-
-## Book 10
-
-## Book 10
+## Book 10: Ceremonial Admiral
 
 RC is constituted, but needs on-paper seniority over everyone everywhere - they grudgingly pick him for their first, purely ceremonial, grand-admiral, precisely because he will guard their collective and individual backs first and foremost, and he is less compromised than most.
 
@@ -412,9 +409,7 @@ He submitted his retirement during a low-volume week, tucked between logistics r
 - Earned recognition or closure
 - Upward emotional beat
 
-## Book 11
-
-## Book 11
+## Book 11: Failed Director
 
 But then real head of RC, a political executive, spectacularly implodes, and in mid-crisis they need someone right-now. 
 
