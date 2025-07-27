@@ -36,6 +36,18 @@
 | **World**   | **Generational Cycles**   | Institutional memory is shallow; only structure endures. It starts with aligned incentives and a Spark — a discovery, anomaly, or signal reignites interest. Then the Push — full-scale funding, media frenzy, political alignment, generational identity. Ends with Fallout and the Backlash — ambiguous results, internal contradictions, lack of breakthrough, economic and political retrenchment; scapegoating, collapse of faith. Then the long Drift — a long silence, budget starvation, token gestures, quiet tech salvage - until the Reframing: a new cohort arrives, sees the mystery differently, finds new incentives — and the cycle begins again.|
 | **Mystery** | **Ambiguity as Economic Engine** | The unknown isn’t feared — it’s monetized. Uncertainty becomes the backbone of stability, commerce, and control. Uncertainty becomes policy. Truth is risk, fog is money. Ends as empty ritual. Also politically untouchable — artifact ambiguity becomes legal/treaty keystone |
 
+## Cliche Risks
+
+| **Spiral**   | **Cliché Risk**      | **Counter-Pitch**    |
+| ------ | -- | -- |
+| Custody Chain      | “Drafted clerk = hidden savior”  | Let someone *worse* get pulled instead — and cause damage      |
+| Crisis Promotions  | “Promoted for being last man standing” → too often | Once let someone outgame him bureaucratically      |
+| Burnout Reassignments    | “Exile = safety” trope     | Add one exile gig that nearly kills him (not career-wise, just personally) |
+| Symbolic Authority | “Totem who never moves”    | Let one symbolic act *backfire* — his stamp **causes** a fiasco      |
+| RC Overreach | “Zombie committee” trope   | Brief reform that *fails because of him*     |
+| Contact Dilemma    | “Contact becomes security infrastructure”    | Add one idealist who still tries — and burns for it      |
+| Mystery Spiral (General) | “Ambiguity becomes fog ritual”   | Let *one* mystery thread get close to clarity — and see who shuts it down  |
+
 
 ## Crisis per Book (Discarded but still okay as chronology reference)
 - We mapped here what we already know about "main crisis" per each book
