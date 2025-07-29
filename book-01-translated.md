@@ -337,4 +337,104 @@ Hero blinked.
 No one had asked if he was available. That seemed to be happening a lot lately.
 
 
+## Chapter 5 - FIRST DRAFT
+
+The invitation came mid-morning. Proper header. Proper tone.
+
+SUBJECT: CONTRACT STATUS REVIEW
+TIME: 15:30 STATION TIME
+LOCATION: DECK C – NAVAL ADMIN BLOCK / ROOM 112B
+CLEARANCE: REQUIRED
+PRESENCE EXPECTED
+
+He tapped to acknowledge, then set it aside. There was no urgency tag. No coercive language. Just formality.
+
+By the time he reached the admin block, the hallway outside 112B was lit bright and even. Cameras logged his approach. Standard signage above the door read: Personnel Clearance / Asset Reclassification.
+
+Not high-traffic. But monitored. The kind of room no one entered without the schedule knowing.
+
+Inside, the setup was basic but clean. Standard desk. Fabric dividers. Stationary scanner on a pivot bracket. A laminated hazard poster hung above the desk — listing risk classifications, response tiers, and PPE zones. The kind of thing no one read unless they had to sign under it.
+
+A thermal printer hummed behind the desk.
+
+The clerk — Navy, admin branch, maybe third tier — gestured him in without standing.
+
+“You’re here about the continuity chain? Good.” She tapped a field on her slate. “We can’t finalize the routing authority unless you’re cleared for temporary billet.”
+
+Hero blinked. “Billet?”
+
+“Not career. Not enlistment.” She pointed to the screen. “Administrative Naval Classification 17-c. Used for irregular logistics where chain-bound audit personnel are required for manifest compliance. It grants temporary routing clearance.”
+
+Her tone stayed dry, but practiced.
+“The billet is non-renewable. Expires automatically upon return from the designated transfer mission — no post-deployment obligations. Duration is projected at seven to nine weeks, depending on orbital drift and transit stacking.”
+
+He said nothing.
+
+“You’d receive billet pay in addition to your contractor rate,” she added. “Zone differential applies. No pension weight. And it’ll log as ‘non-career attached personnel’ for conflict filtering.”
+
+Then, almost as an afterthought:
+
+“If you decline, the fallback cert may be flagged as inactive. That could require chain rollback or revalidation. Would also affect your eligibility for Navy compliance bids.”
+
+Hero looked at the terminal. Then back at the clerk.
+
+“You offering this as a choice?”
+
+She shrugged, like it didn’t matter either way.
+
+“The offer’s on record. You’re free to accept it.”
+
+He didn’t move.
+
+The clerk clicked through two more fields, then handed him a thermal patch.
+
+PROV17-c: TEMP
+
+He took the patch but didn’t put it on.
+
+The scanner on the desk chirped twice, prompting him to align his ID chip. He hesitated. Then did.
+
+The scanner tone confirmed:
+CLASSIFICATION UPDATED: PROVISIONAL 17-c (TEMPORARY)
+STATUS: CHAIN-BOUND PERSONNEL
+TRAVEL LIMITATIONS: ACTIVE
+COMMS: RESTRICTED TO ESSENTIAL CONTRACT INTERFACE
+
+Hero stared at the screen. Not alarmed. Not surprised. Just tired.
+
+He blinked once. A pause, not quite hesitation. Just system lag in his own head.
+
+The printer buzzed again and spat out a single folded sheet — not bound, not stapled. Just folded and marked:
+
+"Guidelines for TempNav Integration" - Probably basic regulations and such.
+
+The clerk didn’t comment. She just pointed to the chair.
+
+“Someone’ll be in to finalize the manifest scope. You’re authorized to wait here or in the hall.”
+
+He stayed.
+
+Ten minutes later, the logistics officer from yesterday stepped in. Same uniform. Same clipped posture.
+
+She looked at the patch still in his hand. Then at him.
+
+“You didn’t have to stay in person,” she said, dryly. “But it helps the paperwork.”
+
+Hero didn’t respond.
+
+She continued: “It’s just transit duty. Arbitration should clear before the next quarter cycle.”
+
+He finally asked, “What if I’d declined?”
+
+The officer gave a sad-smile. “There’s always a form for refusing. Just none for undoing what that triggers.”
+
+She paused, then added — not unkindly:
+
+“You weren’t scapegoated, just a least problem. You will be paid and back to your life soon.”
+
+Hero didn’t answer. He unfolded the pamphlet, didn’t read it, then folded it again. Filed it under his backup cert directory:
+onboarding/
+
+Not because it mattered. Just from habit.
+
 
