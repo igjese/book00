@@ -363,7 +363,7 @@ Pls provide plausible options that best fit the core dimensions mentioned, in th
 
 Craft a one- or two-line passage that feeds directly into the scaffold. This line **closes the previous scene by opening the next one** — structurally, emotionally, and spatially.
 
-Your transition line must:
+Your transition line must preserve the momentum, often on external pressure that starts the next chapter.
 
 | Requirement   | Why It Matters  |
 | - | --- |
