@@ -1,5 +1,7 @@
 # Book-1 Polish 
 
+Lists things to fix
+
 ## Act-1
 
 | Area | Edit Type  | Purpose / Rationale  | Example Cue or Use |

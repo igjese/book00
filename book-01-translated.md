@@ -1,4 +1,4 @@
-# Book 1 - Translated
+# Book 1 - Translated (outdated)
 
 ## Chapter 1
 
