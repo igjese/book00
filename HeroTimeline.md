@@ -2,7 +2,7 @@
 
 ## Book 1: Drafted Audit Clerk
 
-Our hero is just a low-level civilian audit clerk, tied to a supply verification contract.
+Our hero, Venn Kohrs, is just a low-level civilian audit clerk, tied to a supply verification contract.
 He’s out at a minor orbital station, methodically cross-checking cold storage manifests destined for a new navy-linked deployment — the sort of dull provisioning work nobody pays much mind.
 
 Then a pressure breach wipes out millions in precision hardware. Regulators, local navy officers, insurance risk reps — all swarm in, desperate to find any thread of blame.
