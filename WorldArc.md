@@ -63,6 +63,14 @@
 - **Institutional Preference:** Widely deployed in insurance, navy, corporate, and municipal functions for their throughput.
 - **Public Comfort:** Acceptance hinges on the visible ratification brake — without it, use becomes politically risky.
 
+**Avatars in Bureaucratic Space:**
+* Each avatar instance has a **fixed face, tone, and mannerisms**; these cannot be altered once deployed.
+* Avatars are known by their **alias** (e.g. *Ledger-Broin*, *PolyHelix-Dante*), not personal names.
+* Every avatar must wear/display a **badge** for instant recognition, consisting of:
+	  1. **Institution Seal/Logo** (the entity it represents).
+	  2. **Functional Stripe/Color Code** (compliance, finance, military, etc.).
+	  3. **Instance ID** (the unique instance designation).
+* Replacement of an instance with a different one serves as an **implicit signal of change** — often read as a deliberate policy shift or institutional pivot.
 
 # Anti-trope table
 

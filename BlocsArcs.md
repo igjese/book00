@@ -2,7 +2,7 @@
 # Future Blocs / Major Political-Economic Entities
 
 * **North America and East Asia Alliance (NAEA)** - US–Mexico Federation + Japan/Korea Bloc – Unified federal framework for North America and East Asia (except Taiwan), with mixed economic integration and lingering cultural-political frictions.
-* **India-led Commonwealth 2.0** – India at the helm, UK along for a ride, Canada loose member ; Australia out, now in a new bloc with NZ & Philippines.
+* **New Commonwealth** – India at the helm, UK along for a ride, Canada loose member ; Australia out, now in a new bloc with NZ & Philippines.
 * **Unified China Confederacy** – Loosely bound economic-political confederation, Taiwan as a "special/privileged status" member, plus odd Pacific and African partner states for strategic reach.
 * **Baltic Alliance** – Estonia, Latvia, Lithuania punching above weight through tech, logistics, and naval proxy power. Partner status with ECS.
 * **South Pacific Accord (SPA)** - Australia–NZ–Philippines Pact – Small but agile maritime alliance focused on Pacific trade routes and disaster-response leverage.

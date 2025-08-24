@@ -1,5 +1,7 @@
 # Main Story Timeline
 
+## Trilogy 1
+
 First there is an object at the bottom of enceladus ocean. At first we are not sure, but it seems something is there. Huge funds would be needed even to check, with key people and governments having widely different reactions and beliefs about it. 
 
 When it's finally confirmed, some still don't trust it. Also even bigger funding is needed to sample it or anything. Urgency creeps in but only to some, basically scaled up version of the prior dilemmas.
@@ -13,6 +15,8 @@ A proud coastal trade bloc blew billions on early missions, never recovers. Now 
 Next step is to investigate the object. What is it? How old it is? Where it came from? Who made it?
 
 Each of these question needs more funding and serious commitment, but there is no will (with some exceptions) to go extra mile any more. Years pass with mostly token teams coming up with clever new ways to test many angles of this mystery with shoe-string (not really, but compared to initial push) budget.
+
+## Trilogy 2
 
 They need to do thorough geological-history survey of Enceladus to come up with ways of carbon-dating equivalents of the site, the bedrock, the mud, etc. No one wants to spend that kind of money, but no-one can be seen to do nothing either - most powers come up with token excuses for a mission just to be able to say they are following up.
 
@@ -74,6 +78,8 @@ Big push comes, everything already being done for decades is scaled up immensely
 
 They nail down it was almost certainly a probe — internal compartments, tight-beam radiation scarring, no organic residue. Models sharpen just enough to back-trace a broad entry cone, roughly toward a loose cluster of near stars. Wider than anyone wants, but no longer infinite.
 
+## Trilogy 3
+
 most sensor arrays are locked in on that star group. signals are identified that just might be artificial (out of million candidate signals, but now analyzed with arrays of quantum computers, which were not available back then).
 
 There are always some ambiguous candidate signals — faint patterns, odd statistical clusters — but fundamentally beyond current human tech and theory to truly decode. This low-level ambiguity never goes away. Meanwhile, insurance pools and orbital trade lobbies quietly pay to hype these uncertain signals, selectively fund papers and conferences, because ambiguity props up their contracts and justifies endless “alien risk certification” regimes. Real science drags on in the background, while market-driven illusions shape most policy.
@@ -109,6 +115,8 @@ Early crackdowns are fragmented and opportunistic: handled by whichever major or
 Adding to the mess: big powers quietly fund or manipulate some of these fringe launches themselves, using cut-outs or covert proxies — to test each other’s detection systems, measure insurance ripple effects, or see if the alien problem can be stirred without direct fingerprints.
 
 Then one of these groups managed to secretly launch a probe, from outer system. realistically chances for it not to be discovered were nill, with all the sensors looking at that direction, but their idea was it would be already too far away to do anything about it.
+
+## Trilogy 4
 
 This bring shocking unity (kind of, not real unity but common understanding) in response from major powers. there is no time to waste, since each week passed will require exponentially costlier response. 
 
