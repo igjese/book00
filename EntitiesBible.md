@@ -81,20 +81,6 @@ The ECS is therefore slow on **policy**, fast on **custody**.
 - But they stall on funding/missions -  unable to fund a major mission or take a clear stance. 
 - This makes them a frustrating but essential partner for any other bloc that actually wants to *do* something.
 
-### ECS Arcs / Spirals
-
-* **San Marino Neutrality Crisis** → a data manipulation scandal, deepfake evidence, or an AI integrity breach threatens their core legitimacy.
-* **Register Drift** → over decades, the Register’s models adapt in subtle ways, leading to rulings skewed toward certain member states without anyone noticing at first.
-* **Enforcement Fatigue** → their Compliance Fleet starts losing effectiveness as national navies quietly recall ships or downgrade maintenance.
-* **Avatar Wars** → escalating competition between state Avatars to “game” the Register becomes public — data vetting turns into a political bloodsport.
-* **Constitutional Amendment Wave** → smaller members push to rewrite San Marino’s role; some want more automation, others less.
-* **Factional Coup in Slow Motion** → Reformationists tighten control, marginalizing Planet/Equality; later the reverse attempt occurs. Both grind the bloc’s function down.
-* **The “Decisive” ECS Moment** → a rare instance where they *must* act decisively (crisis, war scare, alien signal) — and we show how hard and weird that is for them.
-* **Symbolic Leadership Swap** → a charismatic Autonomist becomes *public face* of ECS without real power, but changes its perception in other blocs.
-* **Bloc Fracture / Secession Threat** → one or more members threaten to leave over arbitration rulings, triggering months of brinkmanship.
-* **The Great Rebrand** → ECS tries to reinvent itself mid-series (new name, new doctrine) but the changes are mostly cosmetic.
-- **RC ramp-up: Enforcement Without Reach** - Wins high-profile custody rulings but can’t enforce them in time to matter; reluctantly embeds with UCC/NAEA ops.
-
 ## Baltic Alliance
 
 **History (50 years before Book 1)** 
@@ -102,10 +88,6 @@ The ECS is therefore slow on **policy**, fast on **custody**.
 
 **Current Situation (Book 1)** 
 - Politically agile and unbound by full ECS arbitration, the Alliance balances ties with ECS, major powers, and niche partners. Its economy leans heavily on sustaining the demand for risk-assessment and corridor-security services; any drop in perceived hazards would hit budgets hard. They maintain a small but advanced compliance-escort and survey fleet, valued more for speed and precision than firepower, and face internal division between diversification-minded pragmatists and maximalists pushing ever-larger “risk-mapping” campaigns.
-
-**Arcs**:
-- **Early Beneficial Contracts** → They win early analytics / risk-insurance contracts tied to alien-adjacent operations — maybe corridor hazard modeling or compliance audits. Sudden prestige and cash inflow; their naval/logistics niche gets validated. Sets up their *dependence* on alien-risk perception for economic stability.
-- **Perpetual Risk-Mapping** → The economy reorients around constant alien-risk assessments. They actively promote “risk discovery” so contracts never lapse — possibly overhyping threats in The Register or allied blocs. Implied tension: Risk down → panic about loss of income → political pressure to “find” more risks.
 
 ## GCC (OPEC + Russia)
 
@@ -115,11 +97,6 @@ The ECS is therefore slow on **policy**, fast on **custody**.
 **Current Situation (Book 1):**
 - Riding high on record export revenues and a wave of prestige project announcements, OPEC+Russia presents itself as both Earth’s energy backbone and a future space superpower. Internally, the leadership enjoys rare unity, with Gulf states, Russia, and agrarian partners aligned behind the expansion vision. Early technical setbacks are kept quiet, framed as “expected teething issues” in a bold multi-decade plan.
 
-**Arcs:**
-- **Ambitious Early Missions** → Pours billions into prestige space ventures that stall or fail to deliver returns, leading to early embarrassment. When the alien mystery emerges, they seize the chance to rebrand as leaders in deep-space exploration, pouring even more into high-visibility missions. The same “invest big, deny failure” pattern plays out at greater scale, culminating in financial collapse. Consequently, the bloc never recovers from these losses and works to control the narrative by declaring the mystery settled and suppressing new hype.
-- **Strategic Commodities Rebrand** → Pivot away from space ambitions, reframing themselves as the indispensable guarantors of Earth’s energy and food security, using this leverage to regain political ground. On mystery: pushing school curricula to label it a “minor historical curiosity” and **violently censoring new hype** to avoid political embarrassment
-- **RC ramp-up: Beyond-GEO Fuel Void** - Promised strategic reserves but can’t deliver past GEO; leans on NC/SPA positioning to stay relevant.
-
 ## South Pacific Accord (SPA) - Australia, NZ, Philippines
 
 **History (50 years before Book 1):**
@@ -127,11 +104,6 @@ The ECS is therefore slow on **policy**, fast on **custody**.
 
 **Current Situation (Book 1):**
 - SPA markets itself as the indispensable guardian of Pacific maritime stability and first responder for the southern hemisphere. South Haven remains its crown jewel — a bustling humanitarian hub in public perception, but in practice a fully operational military and space-support facility. Fleet tenders, patrol craft, and logistics ships cycle through its docks under disaster-response livery, while its launch pads and tracking stations are kept “on standby” for emergencies. Behind the scenes, SPA leadership uses the base to quietly expand their reach, leveraging jurisdiction gaps between major blocs to secure long-term access rights and stage assets for opportunistic moves.
-
-**Arcs:**
-- **Opportunistic Corridor Grab** → When major blocs squabble over jurisdiction in certain Pacific-to-orbit traffic corridors, the Pact steps in as “temporary coordinator.” They extract favorable long-term access rights and quietly expand their dual-use space infrastructure under the guise of safety oversight. First hints that they’ll bend rules if it benefits them, but still in a “plausibly legitimate” way.
-- **Fringe/Rogue Contact Attempts** → With infrastructure in place, rogue launches and signal attempts start emerging from SPA territory. Multiple unauthorized launches and signal attempts over decades. Early efforts are suppressed or ignored. Major powers accuse them of covert backing; they deny it while using the chaos to expand influence in RC/ECS negotiations.
-- **RC ramp-up: Sustained Ops Deficit** - Stages and scouts missions well but can’t keep them supplied; becomes vocal advocate for formal joint operations.
 
 ## **New Commonwealth (NC)**
 
@@ -143,12 +115,6 @@ The ECS is therefore slow on **policy**, fast on **custody**.
 
 * Economically powerful and internally stable, NC is respected but not yet feared in inter-bloc politics. India quietly directs bloc policy while letting the UK play the role of “elder statesman.” Most of NC’s space assets still serve Earth infrastructure — orbital energy, weather, and resource mapping — but the industrial and launch base now exists for rapid expansion. Internal debates are building over whether to keep the inward focus or make a prestige move onto the space stage.
 
-**Arcs:**
-
-- **Trade Frictions** → After quietly shifting real leadership from a bankrupt UK to India, the New Commonwealth invests its first decades in massive internal projects: continental freight corridors, orbital solar grids, climate stabilization, and deep-sea port upgrades. These efforts create world-class industrial capacity but keep the bloc absent from the first alien-mystery rush. Friction brews when NC’s new port and launch facilities — nominally for civilian infrastructure — start cutting into ECS-controlled trade routes and underbidding GCC on orbital logistics contracts. Publicly dismissed as “minor jurisdictional misunderstandings,” these skirmishes begin establishing NC as a power that can no longer be ignored in corridor politics.
-- **New Enceladus Initiative** → - Facing growing frustration among member states over missed opportunities and spinoff patents, India rallies the bloc behind a bold catch-up plan: the _New Enceladus Initiative_. Marketed as a coordinated exploration and research program, it is in truth a high-stakes bid for trade leverage, patent rights, and long-term orbital leases. The Initiative channels NC’s immense industrial base into a prestige project meant to propel the bloc into top-tier space power status — but its scale and ambition risk destabilizing the very economic strength it was built on.
-- **RC ramp-up: Deep-Space Security Gap** - Grand orbital projects stall when convoys outside defended corridors suffer losses; forced to rely on UCC/NAEA for escorts, paying politically.
-
 ## NAEA (North America and East Asia Alliance)
 
 **History (50 years before Book 1)**
@@ -156,11 +122,6 @@ The ECS is therefore slow on **policy**, fast on **custody**.
 
 **Current Situation (Book 1)**
 * NAEA projects confidence as one of the most technologically advanced and operationally integrated blocs. The US still claims bloc leadership in public, but real decisions often come from trilateral committees where Japan’s tech leverage and Mexico’s manufacturing base carry equal weight. Early in the alien-mystery era, NAEA has been the main underwriter of first-wave missions — funding large-scale expeditions, station modules, and orbital logistics contracts to cement strategic prestige. This spending has kept their orbital yards and crews working at full capacity, but the pace is unsustainable. Skilled orbital labor is already tight, with training pipelines lagging behind mission demand. By the next decade, this shortage will trigger an **orbital labor crisis**, forcing NAEA to pivot away from deep-space dominance toward emergency recruitment and retention measures — a shift that will directly feed into the “big push” for origins.
-
-**Arcs:**
-- **First-Wave Underwriter** → Bankrolls and leads early missions, trading long-term sustainability for immediate prestige.
-- **Orbital Labor Crisis Bailout** → Redirects resources from exploration to stabilizing their workforce, creating rifts inside NAEA and reshaping bloc priorities toward the origins push.
-- **RC ramp-up: Orbital Assembly Bottleneck** - Massive hauls reach orbit but precision builds lag months; jury-rigged modules cause failures, pushing them toward NC/UCC tech.
 
 ## UCC (Unified China Confederacy)
 
@@ -177,8 +138,136 @@ The ECS is therefore slow on **policy**, fast on **custody**.
 * In return, Taiwan enjoys Council-backed security guarantees and basing rights across the bloc’s network of African and Pacific partner ports.
 * The bloc is in a **post-instability rebuild phase** — consolidating trade routes, repairing neglected infrastructure, and quietly expanding maritime patrol range. Internally, debates over whether to centralize more authority or preserve provincial autonomy remain unresolved, but for now the shared need to counter **New Commonwealth** and **SPA** naval expansion keeps the bloc aligned.
 
-Arcs:
-* **Rebuilding China** → UCC scrambles out of its deepest crisis in a century — repairing trade routes, stabilizing Taiwan integration, and projecting a fragile return to relevance.
-* **Orbital Arms Race with New Commonwealth** → Competes with NC in the New Enceladus Initiative, investing heavily in orbital logistics and space-rated tech to secure a strategic edge despite domestic budget strain.
-- **RC ramp-up: Heavy-Lift Shortfall** - Can secure lanes but can’t sustain mass throughput; prestige missions fail for lack of redundancy, driving deals with NC/NAEA.
 
+
+## Bloc Dynamics
+
+The geopolitical landscape is defined by a fragile, multi-polar balance of power. The era of unilateral dominance is over, replaced by a complex web of strategic dependencies, commercial rivalries, and grudging cooperation. No single bloc possesses the capability to pursue its grand ambitions alone; each is constrained by a **hard strategic ceiling**—a critical capability gap that only a rival can fill. This dynamic of mutual necessity forces all players into a state of constant, cynical negotiation, where today’s partner is tomorrow’s competitor.
+
+
+
+### Core Tensions & Dependencies
+
+The balance of power is not static; it is defined by a series of critical, often conflicting, relationships rooted in the strategic ceilings above.
+
+#### The Pacific Rivalry: NAEA ↔ UCC
+This is the system's primary "cold war," a **competitive dependency** for technological and military dominance. The core friction is a profound strategic vulnerability: despite being rivals, **NAEA is critically dependent on the UCC's world-leading, ultra-reliable space-rated semiconductors** for its advanced orbital systems. This gives the UCC a powerful, non-military lever and represents a critical supply-chain capture. In return, the UCC lacks the heavy-lift capacity to sustain major operations and often relies on NAEA's industrial throughput.
+
+#### The Economic Backbone: NC ↔ GCC ↔ SPA/NAEA
+The relationship between the NC and GCC is one of pure **codependence**. The **GCC controls the raw fuel and food** molecules, while the **NC owns the advanced orbital depots and infrastructure** to move those resources. This bilateral relationship, however, collapses beyond GEO. For any sustained deep-space operation, they require **SPA's forward staging bases** to position assets and **NAEA's orbital assembly capacity** to build the necessary infrastructure. This strategic triangle ensures that no single bloc can control the entire economic pipeline.
+
+#### The Middle Power Axis: SPA ↔ Baltic Alliance
+As the system's opportunists, SPA and the Baltic Alliance share the goal of preventing the "Big Three" from dominating, but they employ distinct levers. **SPA leverages its physical position**, trading access rights to its South Haven staging base for political influence and favorable contracts. The **Baltic Alliance leverages its technical expertise**, selling high-fidelity hazard models and compliance escort services, often operating under the legal color of its partnership with the ECS.
+
+#### The Levers of Power: Custody and Through-Path Rights
+Non-kinetic conflict is constant and waged through procedural levers. A key tactic is the control of **through-path rights** for communication. A bloc that owns or leases a ground-segment uplink can lawfully **"pause" or throttle** a rival's data traffic under the guise of safety codes or contractual disputes. This is not jamming; it is a legal, procedural chokehold.
+
+These disputes are sometimes arbitrated by the ECS, whose doctrine is "**slow on policy, fast on custody**". All conflicts route through the established machinery: member-state **Avatars** submit conflicting data to the **Deep Policy AI Register**, and the **Sammarinese Arbiters** issue a binding ruling or a non-binding guidance. While the ECS is too slow to direct military operations, it excels at issuing the **seals, escrow holds, and uplink throttles** that can paralyze a rival's logistics for months. Other blocs have learned to weaponize this procedural lag.
+
+
+### The Pre-History of the RCC
+
+The Ruling Council did not appear in a vacuum. The strategic ceilings that define the blocs had already forced them into a state of reluctant cooperation for years prior to the rogue probe crisis. The system was rife with **grudging joint drills, emergency data-sharing agreements, and fragile multi-bloc treaties** designed to manage earlier crises where no single power could act alone. These ad-hoc arrangements were inefficient and prone to collapse, but they established the precedent for collective action.
+
+When the Enceladus crisis created an existential threat that demanded a unified response, the formation of the RCC was not an invention, but a desperate **formalization** of these pre-existing, unstable protocols. It was a last-ditch effort to turn years of cynical, temporary handshakes into a standing body capable of acting with the necessary speed and authority.
+
+# Locations of Interest (Solar System)
+## **L5 Lagrange Point (Earth-Moon System)**
+* **Type:** Primary Inner-System Commercial Hub & Port.
+* **Infrastructure:**
+    * Functions as a "parking volume" for a cluster of stations, depots, and relay outposts due to its gravitational stability.
+    * Massive automated warehouses for storing bulk cargo arriving from Slow-Spiral convoys.
+    * Cross-docking facilities to transfer time-sensitive goods from slow freighters to faster shuttles.
+    * Likely site for major beamed energy arrays (laser or microwave) to assist with ship departures and arrivals.
+* **Strategic Role:** The "Singapore or Rotterdam" of cislunar space; a major choke point for commerce, customs, and liability transfers.
+
+## **Jupiter System**
+* **Type:** The Strategic "High Ground" for Outer-System Transit.
+* **Infrastructure:**
+    * A network of unmanned, automated staging depots and refueling stations ("gas stations") in stable orbits.
+    * These depots are essential for enabling the **Oberth Maneuver**, where ships refuel before a powered dive into Jupiter's gravity well for a massive speed boost.
+    * Possible location for advanced fusion-powered beam arrays to assist deep-space missions.
+* **Strategic Role:** Control of the Jovian depots is tantamount to control of the fast lanes to the entire outer solar system. Access is a critical point of political contention and insurance negotiation.
+
+## **Phobos & Deimos (Mars System)**
+* **Type:** Primary Launch and Logistics Node.
+* **Infrastructure:**
+    * **Mass Drivers ("Mag Cannons"):** Their low gravity makes Mars's moons the ideal location for the massive electromagnetic accelerators that launch refueling pods and other cargo.
+    * **Momentum-Exchange Tethers:** "Rotovators" that can catch incoming pods from the mass drivers and fling them onto new trajectories, enabling complex, propellant-free maneuvers.
+    * Likely hosts major beamed energy arrays for the Earth-Mars transit corridor.
+* **Strategic Role:** The key hub for "cheating" the rocket equation. The infrastructure here is what makes the Sprint Network's mid-flight refueling and high performance possible.
+
+## **Ceres (Main Asteroid Belt)**
+* **Type:** Forward Staging Point & Mid-System Hub.
+* **Infrastructure:**
+    * A logical site for momentum tethers to assist with cargo transfers between the inner and outer systems.
+    * Likely hosts fusion-powered outer-system beam arrays, extending the reach of the beamed power network beyond Mars.
+* **Strategic Role:** A critical node connecting the industrial centers of the inner system with the resource frontiers and strategic locations of the outer system.
+
+## **Saturn System (Primarily Titan)**
+* **Type:** Major Outer-System Destination & Operational Hub.
+* **Infrastructure:**
+    * **Aerocapture Facilities:** The presence of Titan's atmosphere makes it the primary location for **aerocapture** maneuvers, where arriving ships use atmospheric drag to brake into orbit, saving enormous amounts of fuel.
+    * Propellant depots and refineries to support operations in the Saturnian system.
+    * Likely hosts arrival-focused infrastructure, such as beamed energy arrays for braking assistance.
+* **Strategic Role:** The main gateway to Saturn. Access to its aerocapture corridors is heavily regulated by insurers and is a critical component of any fast-transit mission plan.
+
+## **Enceladus**
+* **Type:** Scientific Outpost & Site of Interest.
+* **Infrastructure:**
+    * The infrastructure here is not primarily industrial or military but scientific, built in response to the initial anomaly detection.
+    * Includes monitoring arrays, subsurface drilling rigs, and forensic laboratories dedicated to studying the alien artifact.
+* **Strategic Role:** The catalyst for much of the system's technological and infrastructural development. While not a hub itself, the "Enceladus Forensics" effort justifies the existence of many other assets.
+
+
+## **Vesta Ring**
+
+An early Belt installation built into Vesta’s co-orbital corridor. The ring is a patchwork of industrial nodes, docking arrays, and salvage depots, serving as both logistics checkpoint and contractor foothold. In Trilogy-1 it is already showing signs of under-funding and over-extension, a waystation whose prestige origins are eroded by liability disputes and throughput pressures.
+
+
+# Bases and Stations
+
+## **Relay 6B (Earth/Luna L5)**
+
+A dusty, under-used compliance outpost at the Earth/Luna L5 point, originally built as a relay node for interplanetary cargo tracking. By the time of the Incident it is a half-forgotten backwater, staffed with low-tier clerks and aging AI systems. Its decaying oversight infrastructure and mismatched protocols made it prone to audit conflicts, culminating in the seal breach that first trapped the hero’s fallback paperwork inside the custody chain.
+
+## **Tethys Station (Saturn System)**
+
+A fragile, prestige-driven orbital hub established by GCC near Saturn’s moon Tethys. It functions as both refueling depot and early staging platform for the Enceladus expeditions. Operational but under-resourced, it represents the prestige-politics of the Big Push: expensive, half-finished, constantly leveraged as “presence” rather than capability.
+
+## **Themis Station (Outer-A Ring)**
+
+A neglected station node on asteroid Themis, serving primarily as a regulatory anchor and insurance checkpoint for Outer-A traffic. Remote, low-prestige, and perpetually short-staffed, it becomes one of the hero’s humiliating billets during his “Lieutenant Fallback” years, where his diligence is treated as nuisance rather than asset.
+
+## **Logistics Annex (Deimos Orbit)**
+
+A clerical graveyard node tethered to Deimos orbit, processing overflow packets from Mars logistics. Functionally irrelevant yet administratively necessary, it absorbs variance disputes and low-priority custody files. Officers assigned here are nominally in command but in practice forgotten, tolerated ballast to keep insurance overlays satisfied.
+
+## **Ceres Transit Yard**
+
+A sprawling orbital holding volume in high Ceres orbit, used to park salvage convoys, abandoned modules, and disputed cargo awaiting clearance. The “yard” is less a station than a skeletal network of docking trusses, tether frames, and drifting hulks kept in controlled orbit by drones. It is administratively tied to Ceres proper but physically isolated.
+
+## **Ceres Hub (Station Complex in Ceres Orbit)**
+
+The central administrative and habitation complex in Ceres orbit, grown over decades into a patchwork of arbitration halls, contractor docks, and bloc enclaves. It functions as the political and procedural heart of the mid-Belt: all major salvage disputes, liability claims, and insurance carve-outs eventually funnel here. While the Transit Yard handles hulks and cargo physically, Ceres Hub proper handles the paperwork — a dense bureaucracy of subcommittees and review boards. Officers seconded here gain exposure to the system’s core machinery, where precedent and compromise outweigh clean procedure.
+
+
+# Ships
+
+- **Kite’s Wake (Convoy Escort)**
+	A small nuclear-thermal escort vessel, built to meet treaty staffing minima rather than heavy combat. With only two commissioned officers aboard, the rest of her complement is a mix of warrant staff, contract crew, and automated systems. Her role is deterrence and procedural enforcement, ensuring convoys carry the proper stamps and can claim bloc protection. Kite’s Wake becomes the hero’s first true billet, where his fallback entanglement escalates into an acting commission during the blackout at Enceladus.
+
+- **Celestial Venture (Convoy Freighter)**
+	A mid-sized freighter designed for long-haul cargo runs under steady nuclear-electric drive. Too slow and fragile for prestige routes, she serves as a catch-all hull for priority shipments not trusted to automation. Crewed convoys like hers move specialty hardware and sensitive cargo where human custodial witnesses are contractually required. The hero rides her during his first convoy assignment, learning that even “routine” freight is a web of insurance riders and bloc disputes.
+
+- **Reliant Horizon (Convoy Vessel)**
+	A mid-tier convoy ship operating as logistics and compliance platform for Belt runs. Neither glamorous nor strategically critical, it represents the kind of workhorse hull where junior officers are rotated to satisfy treaty staffing quotas. The hero’s transfer aboard her reinforces his status as ballast rather than asset.
+
+# Institutions
+
+- **ECS Navy Academy**
+	The bloc’s formal officer pipeline, split between a ceremonial surface campus at Marne Heights near Paris and a utilitarian training complex at Earth–Moon L2. Designed as much to satisfy insurers and treaty auditors as to produce competence, it emphasizes spotless attendance and certification throughput over practical skill.
+	- **Marne Heights Campus (near Paris, Earth)**
+		A ceremonial campus on the outskirts of Paris, maintained more for political symbolism than training value. The Marne Heights campus hosts opening convocations, bloc dignitary visits, and formal graduations — manicured grounds designed to reassure terrestrial parliaments that officers remain rooted in tradition. Instruction here is limited to lectures and public drills, while most academic content is delivered by AI feeds. For cadets, the Paris term is more about optics than competence, a ritual step before being shunted to orbit.
+	- **L2 Orbital Campus**
+		The operational heart of the Academy, a spartan training complex at Earth–Moon L2. Here cadets cycle through recycled corporate compliance modules, convoy code refreshers, and AI-screened aptitude drills under the supervision of overworked instructors. Political pressure to maintain pass rates, combined with insurance mandates for spotless attendance and record-keeping, has turned the L2 campus into a bureaucratic treadmill: efficient at producing “certified” officers on paper, but with little guarantee of practical skill. It is here that the hero stumbles through his accelerated crash course, terrified but carried along by system inertia.

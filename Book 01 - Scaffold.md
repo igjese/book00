@@ -4,7 +4,7 @@
 
 ### Act-1: Setup => Hero is Trapped
 
-| Ch  | Plot Spine                                                                                                                                                                                                                                                                                                                                                        | Setting                                                                                                                                                                                                                                 | Arc Shift                                                                                                                                                                                                                                                                                                           | Beats ..columWidthExtenderLoremIpsumColumWidthExtender                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Ch  | Plot Spine                                                                                                                                                                                                                                                                                                                                                        | Setting                                                                                                                                                                                                                                 | Arc Shift                                                                                                                                                                                                                                                                                                           | Beats ..oooooooooooooooooooooooooooooooooooooooo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Hero cross-checks four cryo-pallets of quantum-etched lensing arrays bound for an unspecified Enceladus deep-scan install. He generates triple audit backups out of habitual paranoia.                                                                                                                                                                            | Relay 6A — forgotten orbital station, underused, dusty with redundancy. Tone: slow, procedural, bureaucratic decay with faint unease.                                                                                                   | - Introduces Hero’s obsessive fallback habits and social irrelevance<br>- It is the first silent ripple of the Enceladus artifact.                                                                                                                                                                                  | - Hero signs off an unusually high-grade cargo: quantum lensing arrays bound for Enceladus. <br> - He makes three distinct audit backups, overriding AI warnings — showing his obsessive fallback pattern. <br> - **Transition:** Half an hour later, an alert hits: there was an incident with the pallets.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | 2   | A seal rupture wrecks several pallets: prototype optics survive, adaptive-mount flexure rings hair-cracked. It surfaces that incompatible protocols corrupted audit timestamps, leaving Hero’s fallback cert as the only unbroken link.                                                                                                                           | Relay 6A — interior quarantine alcove, foggy and glitch-lit. Mood: sterile, suspended tension; systems talking past each other.                                                                                                         | - Hero’s obsessive fallback habits accidentally put him in an unusual position. <br> - The fragility and contradictions of automated oversight systems are exposed. <br> - The story’s audit-driven world begins tightening its grip on him.                                                                        | - Hero receives a system ping and employer query about an incident. <br> - In the quarantined zone, Hero observes insurer drones deadlocked in audit conflict. <br> - Station tech notes only flexure rings show physical damage; lenses appear intact.<br>- Review shows his triple-signed cert is the only one not yet voided. <br> - An insurer avatar implies his cert is now the sole anchor holding the frozen audit chain.<br>- **Transition:** Hero’s cert becomes the last unbroken entry. It’s not trusted — just not rejected.                                                                                                                                                                                                                                                                               |
@@ -235,3 +235,61 @@ Petty needs and motivations - examples (first trilogy):
 - Finds petty satisfaction in catching errors: overly proud when he spots a decimal slip in an older officer’s audit — tells the story twice, awkwardly fishing for respect.
 
 
+
+# Definitive Logic Chain & Mechanics: Calibration Pedigree Contamination 
+
+This is the causal sequence that traps Venn. It balances character psychology, procedural inevitability, and institutional mechanics — making his commission both ironic and inevitable.
+
+## 1. Blind Spot (Act 2a)
+
+- **Mechanic:** Venn assumes his role is strictly **custody** (cargo seals, manifests). Calibration baselines are handled by central labs. His workflow reinforces this: he deals with custody boards (XO, station, insurers), not scientists.
+- **Character Logic:** This lets a cautious man feel safe. Minor “hygiene” edits seem like operational noise, not contamination of the artifact pedigree.
+
+## 2. Harmless Tweak (Midpoint)
+
+- **Mechanic:** Acting under his Lie _“If it’s permitted and looks better, it’s harmless,”_ he makes small “normalizations” to the **zero-noise baseline**:
+    - A 31ms header rewrite on a vibration block.
+    - A cloned log gap in a temperature channel.
+- **Character Logic:** He frames them as routine clerical fixes to make his paperwork look clean.
+- **Why it matters:** That exact baseline is the reference filter for Echo. His “petty tinkering” quietly contaminates the core scientific pedigree.
+
+## 3. Rules Change (Act 2b trigger)
+
+- **Mechanic:** An **underwriter dispute** forces FleetOps to issue a **Pushdown Reconciliation** directive. Local crews must reconcile _all_ data, including calibration baselines, before uplink.
+- **Character Logic:** This collapses the firewall Venn trusted. Overnight, calibration becomes his problem. He’s blindsided: his billet rotation and “custody-only” assumption lulled him into believing his tweak would never resurface.
+
+## 4. Deliberate Contamination (Act 2b)
+
+- **Mechanic:** XO orders him to reconcile. His fork:
+    - **Escalate:** expose his earlier tweak, risking discovery.
+    - **Adapt locally:** contaminate further.
+- He applies the **Veteran’s principle** (“make it look compliant”), not the exact trick, and drafts a **bridging reconciliation packet.**
+    - Remaps ops baseline into treaty fields.
+    - Tags variance NON-MATERIAL.
+    - Posts to **PENDING-CLOSE**, capturing his ID as **recorded modifier / continuity witness.**
+- **Character Logic:** He convinces himself this is clever adaptation — proof he’s finally “getting it.” He exhales, believing the crisis is solved.
+
+## 5. Detonation (Act 3 trigger)
+
+- **Mechanic:** **Echo Confirmed (03:14).** Blackout invoked under **Treaty Clause 4.a (≤12h renewal by 3 officers)** by ~05:00.
+- An **emergency audit board** (XO, FleetOps, SecCom, Underwriter) reviews the chain. His bridging packet is flagged as a variance.
+- **The fork:**
+    - **Confess** → pedigree flips RED; chain quarantined; **Underwriter Review Window** opens; coverage at risk; referral for malfeasance.
+    - **Defend/Hedge** → chain preserved; continuity rider adopted; recorded modifier must be commissioned.
+- **Choice:** He avoids humiliation and lets the fiction stand, knowing it will weld him to the chain.
+
+## 6. The Commission (Act 3 consequence)
+
+- **Headcount Driver:** Blackout clock requires three officers. _Kite’s Wake_ has two. Emergency Commission §2.3B fills the gap.
+- **Liability Driver:** Insurance doctrine demands the **recorded modifier** lead Baseline Reconciliation _under commission_ to keep custody appeal-proof and coverage valid (**CNO-C rider**).
+- **Result:** His Emergency Commission solves both problems. He becomes **Reconciler + third signature**, ballast and liability in one.
+- Later, his cautious variance note is weaponized into **interdiction**, sparking diplomatic blowback.
+
+## **Glossary**
+
+- **Calibration Pedigree / Zero-Noise Baseline:** Reference slice that filters Echo; contaminating it contaminates the artifact evidence.
+- **Continuity Witness:** The human whose ID anchors a continuity packet at closure; Venn is tagged as this when he files the bridge.
+- **PENDING-CLOSE:** Interim ledger state after review; flips stable only after timer.
+- **Clause 4.a (Blackout):** Extraordinary custody posture; must be renewed every 12h by three officers.
+- **CNO-C / Coverage Rider:** Underwriter’s “Conditional No-Objection”; here, it forces the recorded modifier to reconcile under commission.
+    

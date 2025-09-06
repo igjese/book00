@@ -152,16 +152,16 @@ The drama of Book 3 comes from this specific, claustrophobic trap:
 # Book 4
 
 
-|Phase|Entity|Character / Placeholder|Role Relevance|
-|---|---|---|---|
-|**1️⃣ The "Ugly Jobs" Rotation**|**Hero's Chain of Command**|**Superior Officer (Admiral's Staff)**|The person who repeatedly assigns the hero to politically ugly missions (station audits, jurisdiction messes) because he's seen as an expendable, "least-damage" choice.|
-||**(Various Stations/Commands)**|**Local Commander / Station Chief**|Represents the leadership of the messy situations the hero is sent to clean up. Their relationship with the hero could be hostile, grudgingly cooperative, or obstructive.|
-||**Hero's Subordinates**|**Junior Auditor "Holvik"**|A bright, eager subordinate who admires and mimics the hero's fallback patterns, setting him up for a tragic role in the fallout.|
-|||**Disgruntled Crew Member(s)**|Represents the sentiment of the crew who are "quietly furious" at being dragged along on the hero's career-killing assignments.|
-|**2️⃣ The Scapegoat Gambit**|**Admiralty / High Command**|**High-Ranking Schemer**|The senior officer who decides to sacrifice the hero to contain a major fiasco, seeing him as the easiest plug for the hole.|
-||**The "Clean-Up" Ship/Command**|**Smug Second-in-Command**|The fast-rising, careless rival assigned as the hero's XO. His mockery of the hero's clerks acts as the trigger for the climax.|
-|**3️⃣ The Countermove**|**Local Contractors & Brokers**|**Transactional Contact(s)**|The individuals with whom the hero trades "petty favors," "audit slack," and signs off on "overdue local deals" to secure his escape to a new captaincy billet.|
-|**4. The Fallout**|**Inter-Bloc & Corporate Entities**|**New Enemies (Bloc Reps / Insurers)**|The wider circle of players from minor blocs and insurance pools who are snared by the hero's fallback alert and now see him as a genuine irritant to be sidelined.|
+| Phase                            | Entity                              | Character / Placeholder                | Role Relevance                                                                                                                                                             |
+| -------------------------------- | ----------------------------------- | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1️⃣ The "Ugly Jobs" Rotation** | **Hero's Chain of Command**         | **Superior Officer (Admiral's Staff)** | The person who repeatedly assigns the hero to politically ugly missions (station audits, jurisdiction messes) because he's seen as an expendable, "least-damage" choice.   |
+|                                  | **(Various Stations/Commands)**     | **Local Commander / Station Chief**    | Represents the leadership of the messy situations the hero is sent to clean up. Their relationship with the hero could be hostile, grudgingly cooperative, or obstructive. |
+|                                  | **Hero's Subordinates**             | **Junior Auditor "Holvik"**            | A bright, eager subordinate who admires and mimics the hero's fallback patterns, setting him up for a tragic role in the fallout.                                          |
+|                                  |                                     | **Disgruntled Crew Member(s)**         | Represents the sentiment of the crew who are "quietly furious" at being dragged along on the hero's career-killing assignments.                                            |
+| **2️⃣ The Scapegoat Gambit**     | **Admiralty / High Command**        | **High-Ranking Schemer**               | The senior officer who decides to sacrifice the hero to contain a major fiasco, seeing him as the easiest plug for the hole.                                               |
+|                                  | **The "Clean-Up" Ship/Command**     | **Smug Second-in-Command**             | The fast-rising, careless rival assigned as the hero's XO. His mockery of the hero's clerks acts as the trigger for the climax.                                            |
+| **3️⃣ The Countermove**          | **Local Contractors & Brokers**     | **Transactional Contact(s)**           | The individuals with whom the hero trades "petty favors," "audit slack," and signs off on "overdue local deals" to secure his escape to a new captaincy billet.            |
+| **4. The Fallout**               | **Inter-Bloc & Corporate Entities** | **New Enemies (Bloc Reps / Insurers)** | The wider circle of players from minor blocs and insurance pools who are snared by the hero's fallback alert and now see him as a genuine irritant to be sidelined.        |
 # Book 5
 
 - Focuses on the hero's established reputation causing a crisis to spiral out of control, leading to a paradoxical promotion as a form of damage control.
@@ -275,53 +275,3 @@ The drama of Book 3 comes from this specific, claustrophobic trap:
 |**3️⃣ The Final Act**|**The Ruling Council (or its remnant)**|**The "Bad Proposal" Sponsors**|The specific antagonists of the book. These are the powerful figures trying to push through a proposal that would "gut oversight, bury risk, or accelerate some obvious rot".|
 ||**Naval/Bloc Internal Audit**|**The Auditors of the "Rot Case"**|The individuals involved in the "final audit failure" that the antagonists are trying to bury. They may be honest but powerless, or complicit.|
 |**4️⃣ The Legacy**|**The Next Generation**|**The "Younger Players" / Reformers**|The sharper, younger officers or politicians who will inherit the "cleaner foundation" left in the wake of the hero's final act. They represent the future he is (unintentionally) clearing a path for.|
-### Ideas for "punchier" finale
-
-- Original ending: quiet bureaucratic defiance, legacy-focused, but maybe too muted for a 12-book close.
-- Punch-up goal: keep it procedural and in-character, but give sharper catharsis and continuity payoff.
-#### Key Beats
-
-1. **Petty or Absurd Trigger** –
-    - A bloc rep shoves a proposal at him mid-meeting, treating him as a rubberstamp.
-    - Another senior figure ruins the career of one of his few inner-circle allies.
-2. **The Snap** –
-    - He files a “temporary hold” on their flagship project, citing irregularities.
-    - Hold freezes budgets, locks payments, and triggers years of legal review — a bureaucratic kill shot.
-3. **Personal Revenge Layer** –
-    - The rotten project dies.
-    - Both antagonists lose political capital or positions in the fallout.
-4. **Continuity Payoff** –
-    - Antagonists pulled from earlier books so the move feels earned, not random.
-5. **Aftermath** –
-    - He’s stripped of position immediately, publicly sidelined.
-    - Final beat: deep, private satisfaction that _the big rot didn’t happen on his watch_.
-
-#### How to avoid cliches
-
-You can dodge both “petty revenge” and “righteous last stand” by keeping the _emotional frame_ off either end of that spectrum and making the move feel:
-- **Procedurally inevitable** — less “he decided to do it” and more “this is the step the system itself requires, and he happens to be the one with the access to pull it.”
-- **Bureaucratically self-protective** — it’s not framed as vengeance or moral purity, but as risk management, liability avoidance, or safeguarding his own record in a way that just happens to crater the antagonists.
-- **Ambiguous in motive** — maybe even _he_ isn’t sure how much was tactical self-cover vs. personal satisfaction.
-
-#### Possible Framings to Avoid Both Tropes
-
-1. **Self-Defense in Procedure**
-    - The “hold” is triggered because a compliance check tied to his fallback cert lands on his desk.
-    - If he signs off, he inherits liability for a potential inter-bloc treaty breach.
-    - The safest thing — professionally — is to freeze it pending review.
-    - _Consequence_: antagonists’ flagship dies, but it’s a byproduct, not a declared aim.
-
-2. **Chain-Reaction Miscalculation**
-    - He does something small and standard — a mild “temporary compliance review” meant to buy time.
-    - Because of a perfect storm of inter-bloc clauses and automated escrow triggers (seeded in earlier books), it snowballs into a years-long choke on the project.
-    - He never openly claims it was intentional, and others can’t prove it was.
-    
-3. **Mixed Motive, Muted Emotion**
-    - Frame the scene with procedural tension, not a big cathartic speech.
-    - Keep his reaction internally dry: a glance at the clock, a quiet acknowledgment of paperwork submitted.
-    - Any satisfaction is implied in the _precision_ of the move, not its justice or spite.
-    
-4. **Reversibility Illusion**
-    - The hold is framed as temporary and easily reversed “once irregularities are cleared.”
-    - Everyone knows those irregularities are built into the project, so reversal is impossible without killing it — but the protagonist never has to _say_ that.
-
