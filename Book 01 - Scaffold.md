@@ -146,6 +146,8 @@
 
 #### Ch13, Ch14, Ch15 - Why Hero's tempering is impacting the findings
 
+(NEWER VERSION AT THE END)
+
 **Packet-Header Timestamp** on a 14-second block of **vibration telemetry** from pallet 882-Kilo (T-03:22 before undock) 
  -  The block arrived 31 ms late because Cargo-Control buffered it during valve-test chatter. Hero rewrote the header to align it with the master clock so his “divergence rate” looked perfect for the on-board audit. 
  - That same vibration segment is part of the **“pre-flight zero-noise baseline”** the science team now uses to subtract ship-induced micro-jitter from the Enceladus echo signal. Any artificial phase-shift corrupts their filter. 

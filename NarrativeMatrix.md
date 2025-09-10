@@ -139,7 +139,7 @@ Dark, gritty, occasionally dryly funny. Not grimdark — there's underlying comp
   The Enceladus rush is at its peak. Ships, cargo, and personnel flood the corridor; ECS Navy is stretched thin. Hero returns from freighter billet and is reassigned to a **compliance post on a neglected outer-ring station**. No prestige, but suddenly crucial to throughput. He is terrified, painfully aware he's out of his depth.
 
 * **Act 1: Setup and Entrapment**
-  He travels via convoy ship (no free rides — even passengers must serve temp billets). At the station, he rotates through dull but visible tasks: certifying dockings, cross-checking bloc liaisons, mediating insurance paperwork. He meets his **Soulmate** in this bureaucracy, whose dry recognition both steadies and unsettles him. He convinces himself this is a chance to gain respect.
+  He travels via convoy ship (no free rides — even passengers must serve temp billets). At the station, he rotates through dull but visible tasks: certifying dockings, cross-checking bloc liaisons, mediating insurance paperwork. He meets his **Comrade** in this bureaucracy, whose dry recognition both steadies and unsettles him. He convinces himself this is a chance to gain respect.
 
 * **Act 2a: Reactive Struggle**
   Daily grind of over-earnest diligence. He files meticulous reports, does his certifications, patiently waiting for respect that never comes. Colleagues dismiss him as a nuisance. Reputation begins forming: he’s the man who always delays cargo with fallback seals and extra disclaimers.

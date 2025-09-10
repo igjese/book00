@@ -263,11 +263,82 @@ The central administrative and habitation complex in Ceres orbit, grown over dec
 - **Reliant Horizon (Convoy Vessel)**
 	A mid-tier convoy ship operating as logistics and compliance platform for Belt runs. Neither glamorous nor strategically critical, it represents the kind of workhorse hull where junior officers are rotated to satisfy treaty staffing quotas. The hero’s transfer aboard her reinforces his status as ballast rather than asset.
 
-# Institutions
+# Institutions / Corporations
 
-- **ECS Navy Academy**
-	The bloc’s formal officer pipeline, split between a ceremonial surface campus at Marne Heights near Paris and a utilitarian training complex at Earth–Moon L2. Designed as much to satisfy insurers and treaty auditors as to produce competence, it emphasizes spotless attendance and certification throughput over practical skill.
-	- **Marne Heights Campus (near Paris, Earth)**
-		A ceremonial campus on the outskirts of Paris, maintained more for political symbolism than training value. The Marne Heights campus hosts opening convocations, bloc dignitary visits, and formal graduations — manicured grounds designed to reassure terrestrial parliaments that officers remain rooted in tradition. Instruction here is limited to lectures and public drills, while most academic content is delivered by AI feeds. For cadets, the Paris term is more about optics than competence, a ritual step before being shunted to orbit.
-	- **L2 Orbital Campus**
-		The operational heart of the Academy, a spartan training complex at Earth–Moon L2. Here cadets cycle through recycled corporate compliance modules, convoy code refreshers, and AI-screened aptitude drills under the supervision of overworked instructors. Political pressure to maintain pass rates, combined with insurance mandates for spotless attendance and record-keeping, has turned the L2 campus into a bureaucratic treadmill: efficient at producing “certified” officers on paper, but with little guarantee of practical skill. It is here that the hero stumbles through his accelerated crash course, terrified but carried along by system inertia.
+## ECS Navy Academy
+
+- The bloc’s formal officer pipeline, split between a ceremonial surface campus at Marne Heights near Paris and a utilitarian training complex at Earth–Moon L2. Designed as much to satisfy insurers and treaty auditors as to produce competence, it emphasizes spotless attendance and certification throughput over practical skill.
+- **Marne Heights Campus (near Paris, Earth)**
+	- A ceremonial campus on the outskirts of Paris, maintained more for political symbolism than training value. The Marne Heights campus hosts opening convocations, bloc dignitary visits, and formal graduations — manicured grounds designed to reassure terrestrial parliaments that officers remain rooted in tradition. Instruction here is limited to lectures and public drills, while most academic content is delivered by AI feeds. For cadets, the Paris term is more about optics than competence, a ritual step before being shunted to orbit.
+- **L2 Orbital Campus**
+	- The operational heart of the Academy, a spartan training complex at Earth–Moon L2. Here cadets cycle through recycled corporate compliance modules, convoy code refreshers, and AI-screened aptitude drills under the supervision of overworked instructors. Political pressure to maintain pass rates, combined with insurance mandates for spotless attendance and record-keeping, has turned the L2 campus into a bureaucratic treadmill: efficient at producing “certified” officers on paper, but with little guarantee of practical skill. It is here that the hero stumbles through his accelerated crash course, terrified but carried along by system inertia.
+
+## PolyHelix Systems (NAEA-aligned)
+
+**History (T1)**
+* Founded as a specialized contractor bridging engineering and science.
+* Earned reputation by operating *“science-ready rigs”* — modular platforms fitted for sensor arrays, isotopic labs, and calibration experiments.
+* Their contracts for Enceladus arrays made them the quiet custodians of the first great anomaly.
+* Backed heavily by **NAEA** funding, they became the bloc’s de facto *science arm in orbit*, combining research credibility with engineering reliability.
+
+**Current Situation (T1–T4)**
+* **T1:** Known as “the scientist’s contractor” — their platforms are where most early Enceladus data is gathered.
+* **T2:** As hype collapses, they pivot rigs into multi-purpose labs, then into escrow/custody nodes demanded by insurers.
+* **T3:** Still present, but now branded less for research, more for *“compliance infrastructure.”* Their rigs are where evidence is logged and sealed.
+* **T4:** By the Lease, PolyHelix facilities are re-badged into *containment outposts.* The same modules once hosting calibration labs now serve as RCC custody chambers.
+
+**Identity**
+* Corporate culture: dry, precise, proud of “rig-level science.”
+* Colleagues joke: *“If it isn’t PolyHelix-certified, it isn’t real data.”*
+* Their evolution from *science-ally* to *containment tool* embodies how inquiry hardens into custody — and how NAEA survived the frontier collapse by institutionalizing science.
+
+**Interaction with Insurers:**
+- Early ally: rigs treated as _trusted custody sites_ by insurers.
+- Gradually subsumed: their platforms become _escrow nodes_ where liability chains are sealed.
+- By Lease era: effectively **outsourced enforcement for insurers**, then RCC.
+
+## Stratos Aerospace (UCC-aligned)
+
+**History (T1)**
+* Entered the Enceladus hype as the premier aerospace/tech conglomerate, winning prestige contracts for optics, hulls, and long-haul transport modules.
+* Sold as the “hero contractor” of the first rush — sleek designs, glossy promo, immense political weight.
+* Positioned as the **UCC’s prestige champion**, a corporate giant tightly interwoven with bloc pride.
+
+**Current Situation (T2–T4)**
+* After the hype collapse and the Big Push overruns, Stratos quietly pivoted into salvage and retrofitting.
+* Now dominates the *salvage economy*: repurposing abandoned stations, refitting derelict platforms, stabilizing orbital skeletons for insurers.
+* Their name is less tied to discovery, more to *permanence*. They are the industrial backbone everyone still depends on.
+* Their prestige image endures, but their real power lies in scale and embeddedness within the UCC state apparatus.
+
+**Identity**
+* Corporate culture reframed: pride in competence and execution over hype.
+* Seen as slightly decadent by Trilogy 3 — bureaucratic, weighed down by legacy prestige projects — but still indispensable.
+* Motto whispered in docks: *“Stratos will still be here when the rest are gone.”*
+
+**Interaction with Insurers:**
+- Early prestige: insurers priced their hulls/modules as “gold standard.”
+- Post-collapse: pivoted into _insurer salvage contractor_, refitting derelicts under escrow.
+- By T3–T4: indispensable to liability market — insurers rely on Stratos salvage to **close claims without lawsuits**.
+	
+## BioSphere Ventures (NC-aligned)
+
+**History (T1)**
+* Began as a small biotech firm focused on closed-loop ecologies and microbial resistance systems for long-duration missions.
+* Dismissed in the first rush as “niche players” competing with giants.
+* Championed by the **New Commonwealth** as a prestige project — a way to leapfrog hardware-heavy rivals through biotech innovation.
+
+**Current Situation (T2–T4)**
+* Gradually rose as the Enceladus mystery tilted toward biology: alien echoes, microbial contamination fears, “alternative biologies.”
+* By Trilogy 3, they became the flagship biotech contractor of the Origins Hunt, with massive influence in bloc committees.
+* In the Lease era, BioSphere framed biotech containment as *the only safeguard* — securing top seats in RCC debates.
+
+**Identity**
+* Culture of outsider pride: *“We were laughed at, then copied.”*
+* Known for bold rhetoric and scientific showmanship, perfect for NC’s prestige-driven politics.
+* Slogan in public campaigns: *“Life adapts. So do we.”*
+
+**Interaction with Insurers:**
+- Initially distrusted: insurers flagged biotech as speculative, hard to price.
+- Rise: fear of contamination flips them into _premium generator_ — insurers bill heavy surcharges on any mission without BioSphere protocols.
+- By T4: biotech containment = **insurance orthodoxy**; BioSphere profits from mandatory adoption.
+	
